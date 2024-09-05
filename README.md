@@ -1,23 +1,28 @@
 ## 👋 Hi, I'm Shivam. I'm a Data Scientist with my roots in Growth Hacking & Marketing Strategy.
 
-- 🔭 I’m currently working on marketing intelligence & data science projects
-- 🌱 I’m currently learning data science & business analytics
+- ⚡ I'm a Product Marketing Manager at [Middleware](https://github.com/middlewarehq/middleware)
+- 🌱 Along with this I love working on marketing intelligence & data science projects
+
+<hr style="height:0.3px; border:none; color:#333; background-color:#333;" />
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/shivamchhuneja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="https://www.youtube.com/@frwrdfast" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="30" /></a>
-<a href="https://instagram.com/shivamchhuneja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="30" /></a>
-
-### Languages and Tools:
-
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" height="30" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" height="30" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" height="30" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" height="30" width="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="SQL" height="30" width="30"/>
+<a href="https://linkedin.com/in/shivamchhuneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://instagram.com/shivamchhuneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@frwrdfast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
+
+<hr style="height:0.3px; border:none; color:#333; background-color:#333;" />
+
+### :technologist: Stack
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Java" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Java" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="50" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" height="50" width="50"/>
+
+<hr style="height:0.3px; border:none; color:#333; background-color:#333;" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamchhuneja&show_icons=true&locale=en&layout=compact&theme=omni" alt="shivamchhuneja" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamchhuneja&&theme=omni" alt="shivamchhuneja" /></p>
 
 <!--
 **shivamchhuneja/shivamchhuneja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
