@@ -1,7 +1,12 @@
 ## 👋 Hi, I'm Shivam. I'm a Data Scientist with my roots in Growth Hacking & Marketing Strategy.
 
-- ⚡ I'm a Product Marketing Manager at [Middleware](https://github.com/middlewarehq/middleware)
-- 🌱 Along with this I love working on marketing intelligence & data science projects
+[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/@frwrdfast?sub_confirmation=1)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCtc0A5GiTkIzmWFJSPGj79Q)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtc0A5GiTkIzmWFJSPGj79Q)
+
+- ⚡ Product Marketing Manager at [Middleware](https://github.com/middlewarehq/middleware)
+- 🌱 Studying in a Post Grad Data Science program
+- :student: Masters in International Business
 
 <hr style="height:0.3px; border:none; color:#333; background-color:#333;" />
 
@@ -19,7 +24,7 @@
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/shivamchhuneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/shivamchhuneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@frwrdfast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivamchhuneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam_chhuneja" height="30" width="40" /></a>
+<a href="https://instagram.com/shivamchhuneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivam_chhuneja" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@frwrdfast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivam_chhuneja" height="30" width="40" /></a>
 </p>
