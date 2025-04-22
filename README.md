@@ -5,7 +5,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtc0A5GiTkIzmWFJSPGj79Q)
 
 - ⚡ Product Marketing Manager at [Middleware](https://github.com/middlewarehq/middleware)
-- 🌱 Studying in a Post Grad Data Science program
+- 🌱 Studying Masters of Data Science with Specialization in ML. Also learning iOS Development
 - :student: Masters in International Business
 
 <hr style="height:0.3px; border:none; color:#333; background-color:#333;" />
