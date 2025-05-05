@@ -1,11 +1,11 @@
-## 👋 Hi, I'm Shivam. I'm a Data Scientist with my roots in Growth Hacking & Marketing Strategy.
+## 👋 Hi, I'm Shivam.
 
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/@frwrdfast?sub_confirmation=1)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCtc0A5GiTkIzmWFJSPGj79Q)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtc0A5GiTkIzmWFJSPGj79Q)
 
 - ⚡ Product Marketing Manager at [Middleware](https://github.com/middlewarehq/middleware)
-- 🌱 Studying Masters of Data Science with Specialization in ML. Also learning iOS Development
+- 🌱 Studying Masters of Data Science with Specialization in ML. Also learning to become a better programmer
 - :student: Masters in International Business
 
 <hr style="height:0.3px; border:none; color:#333; background-color:#333;" />
