@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm Shivam.
 
-- ⚡ Product Marketing Manager at [Middleware](https://github.com/middlewarehq/middleware)
-- 🌱 Studying Masters of Data Science with Specialization in ML. Also learning to become a better programmer
-- :student: Masters in International Business
+- Studying Masters of Data Science with Specialization in ML.
+- Also learning to become a better programmer so you will find a ton of experiments and code from the books I read and learn from.
 
 <hr style="height:0.3px; border:none; color:#333; background-color:#333;" />
 
