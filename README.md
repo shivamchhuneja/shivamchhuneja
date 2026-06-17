@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Shivam.
 
-- Studying Masters of Data Science with Specialization in ML.
+- GTM Engineer in AI Security and Governance and recently wrapped up my Masters of Data Science with Specialization in ML.
 - Also learning to become a better programmer so you will find a ton of experiments and code from the books I read and learn from.
 
 <hr style="height:0.3px; border:none; color:#333; background-color:#333;" />
